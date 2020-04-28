@@ -334,7 +334,7 @@ section {
 
 .language_list {
     z-index: 2 !important;
-    padding: 30px 0px 0px 15px;
+    padding: 0px 0px 0px 15px;
     ;
     display: flex;
     opacity: 1;
@@ -347,8 +347,8 @@ section {
     color: var(--pink);
     opacity: .4;
     margin-top: 8px;
-    font-size: 1.4em;
-    position: absolute;
+    font-size: 0.9em;
+    /* position: absolute; */
     left: 5px;
     top: -8px;
 }
